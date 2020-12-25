@@ -24,5 +24,5 @@ package com.github.doomsdayrs.jikan4java.data.base
  * @author github.com/doomsdayrs
  */
 interface MyAnimeListSource {
-	val source: String
+	val source: String?
 }
